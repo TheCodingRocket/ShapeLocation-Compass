@@ -1,1 +1,0 @@
-# ShapeLocation-Compass
